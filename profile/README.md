@@ -28,13 +28,14 @@ Kledg tient la comptabilité des petites sociétés françaises (SASU, EURL, SAR
 | Dépôt | Rôle |
 | --- | --- |
 | [**kledg**](https://github.com/kledghq/kledg) | L'application : comptabilité, banque, états financiers, FEC et serveur MCP. Licence AGPL-3.0. |
-| [**website**](https://github.com/kledghq/website) | Le site [www.kledg.com](https://www.kledg.com) : présentation, documentation et blog. |
 | [**kledg-demo**](https://github.com/kledghq/kledg-demo) | L'instance de démonstration [demo.kledg.com](https://demo.kledg.com), un fork de kledg avec des sociétés fictives. |
+| [**kledg-cloud**](https://github.com/kledghq/kledg-cloud) | L'offre hébergée [app.kledg.com](https://app.kledg.com) : inscription, abonnements et isolation des clients, un fork de kledg. |
 
 ## Démarrer
 
 - **Essayer** : [demo.kledg.com](https://demo.kledg.com), sans inscription, avec quatre sociétés fictives.
-- **Installer** : le guide [Installer Kledg](https://www.kledg.com/fr/docs/installer-kledg) (Vercel et Neon) ou [Héberger avec Docker](https://www.kledg.com/fr/docs/heberger-avec-docker).
+- **Installer** : [le déploiement guidé](https://www.kledg.com/fr/deploy) sur Vercel et Neon, pas à pas, ou [Héberger avec Docker](https://www.kledg.com/fr/docs/heberger-avec-docker) sur votre serveur.
+- **Sans rien installer** : [app.kledg.com](https://app.kledg.com), Kledg hébergé pour vous.
 - **Connecter un assistant** : [Claude ou ChatGPT](https://www.kledg.com/fr/docs/connecter-claude-ou-chatgpt), avec le choix des sociétés et du niveau d'accès.
 
 ## Contribuer
@@ -43,4 +44,4 @@ Les contributions sont les bienvenues : corrections, fonctionnalités, interface
 
 ## Sécurité
 
-Kledg manipule des données comptables et bancaires. Pour signaler une vulnérabilité, n'ouvrez pas d'issue publique : écrivez à **security@kledg.com** ou utilisez le signalement privé de GitHub. Voir la [politique de sécurité](https://www.kledg.com/fr/securite).
+Kledg manipule des données comptables et bancaires. Pour signaler une vulnérabilité, n'ouvrez pas d'issue publique : écrivez à **security@kledg.com** ou utilisez le signalement privé de GitHub. Voir la [politique de sécurité](https://www.kledg.com/fr/security).
